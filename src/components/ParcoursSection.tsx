@@ -27,7 +27,7 @@ export default function ParcoursSection(): ReactElement {
       icon: <Rocket className="w-8 h-8 text-pink-400" />,
       title: "Début de Carrière",
       description:
-        "Aujourd'hui, aprés un 2 ans je suis prés à me lancer dans le développement, avec un portfolio solide et une passion inébranlable.",
+        "Aujourd'hui, après deux ans d'expérience, je suis prêt à me lancer pleinement dans le développement, fort d'un portfolio solide et d'une passion inébranlable.",
     },
   ];
 
