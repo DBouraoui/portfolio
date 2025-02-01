@@ -37,7 +37,7 @@ export const projects: Project[] = [
       • Dockerisation de l'application
       • Ajout d'un linter eslint`,
     image: "/portfolio.png",
-    githubLink: "https://github.com/dylanepitech/portfolio",
+    githubLink: "https://github.com/DBouraoui/portfolio",
     technologies: [
       { name: "React Typescript", color: "bg-orange-500" },
       { name: "Docker", color: "bg-blue-500" },

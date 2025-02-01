@@ -22,7 +22,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 1. Clonez ce dépôt :
 
    ```
-   git clone https://github.com/dylanepitech/portfolio.git
+   git clone git@github.com:DBouraoui/portfolio.git
    ```
 
 2. Naviguez dans le répertoire du projet :
@@ -38,7 +38,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 ## 🏃‍♂️ Lancement du projet
 
-### Avec yarn
+### Avec NPM
 
 Pour lancer le projet en mode développement :
 
@@ -82,6 +82,6 @@ src/
 
 ## 📞 Contact
 
-[Dylan] - [@mon_linkdin](www.linkedin.com/in/dylan-bouraoui-942039259) - dylan.bouraoui@epitech.eu
+[Dylan] - [@mon_linkdin](www.linkedin.com/in/dylan-bouraoui-942039259) - contact@dbouraoui.fr
 
-Lien du projet : [https://github.com/dylanepitech/portfolio](https://github.com/dylanepitech/portfolio)
+Lien du projet : [https://github.com/DBouraoui/portfolio](https://github.com/DBouraoui/portfolio)

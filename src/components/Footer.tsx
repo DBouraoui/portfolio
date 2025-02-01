@@ -14,7 +14,7 @@ export default function Footer(): ReactElement {
   const socialLinks: SocialLink[] = [
     {
       icon: <Github className="w-5 h-5" />,
-      href: "https://github.com/dylanepitech",
+      href: "https://github.com/DBouraoui",
       label: "GitHub",
     },
     {
@@ -24,13 +24,13 @@ export default function Footer(): ReactElement {
     },
     {
       icon: <Mail className="w-5 h-5" />,
-      href: "mailto:dylan.bouraoui@epitech.eu",
+      href: "mailto:contact@dbouraoui.fr",
       label: "Mail",
     },
   ];
 
   const contactInfo: ContactInfo = {
-    email: "dylan.bouraoui@epitech.eu",
+    email: "contact@dbouraoui.fr",
     location: "Toulon, France",
   };
   const NavItems: NavItems[] = [
